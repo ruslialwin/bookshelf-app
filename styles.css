@@ -1,0 +1,151 @@
+body, h1, h2, h3, p, div, section, header, form, input, button {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background: url('background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #4b3621;
+    padding: 20px;
+}
+
+header {
+    background-color: rgba(139, 69, 19, 0.9);
+    color: #f5deb3;
+    text-align: center;
+    padding: 20px 0;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+header h1 {
+    font-size: 2.5rem;
+    font-family: "Pacifico", cursive;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    background: rgba(245, 222, 179, 0.9);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+section h2 {
+    font-size: 1.8rem;
+    color: rgba(139, 69, 19);
+    margin-bottom: 15px;
+}
+
+form div {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #4b3621;
+}
+
+input[type="text"], input[type="number"], input[type="checkbox"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+}
+
+button {
+    background-color: #d2b48c;
+    color: #4b3621;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #a0522d;
+    color: white;
+}
+
+#incompleteBookList, #completeBookList {
+    background: #fffaf0;
+    padding: 15px;
+    border: 1px solid #8b4513;
+    border-radius: 8px;
+}
+
+[data-testid="bookItem"] {
+    border: 1px solid #8b4513;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    background: #faf0e6;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+[data-testid="bookItem"] h3 {
+    font-size: 1.4rem;
+    color: #4b3621;
+}
+
+[data-testid="bookItem"] p {
+    margin-bottom: 10px;
+}
+
+[data-testid="bookItem"] button {
+    margin-right: 10px;
+    background-color: #d2b48c;
+    color: #4b3621;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 4px;
+}
+
+[data-testid="bookItem"] button:hover {
+    background-color: #a0522d;
+    color: white;
+}
+  
+#searchBook input {
+    width: calc(100% - 100px);
+    display: inline-block;
+    margin-right: 10px;
+    padding: 10px;
+    border: 1px solid #8b4513;
+    border-radius: 4px;
+}
+  
+#searchSubmit {
+    display: inline-block;
+    background-color: #d2b48c;
+    color: #4b3621;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+  
+#searchSubmit:hover {
+    background-color: #a0522d;
+    color: white;
+}  
