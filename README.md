@@ -10,7 +10,8 @@ This is a starter project I worked on while participating in **IDCamp**. It was 
 ## 🛠️ Built With
 - HTML
 - CSS
-- JavaScript 
+- JavaScript
+- Web Storage API (localStorage)
 ---
 
 ## 📦 Getting Started
@@ -21,7 +22,7 @@ This is a starter project I worked on while participating in **IDCamp**. It was 
 ### 💻 How to Run the Project Locally
 1. **Clone this repository**
 ```bash
-git clone https://github.com/your-username/bookshelf-app.git
+git clone https://github.com/ruslialwin/bookshelf-app.git
 ```
 2. **Navigate into the project folder**
 ```bash
