@@ -29,7 +29,8 @@ git clone https://github.com/ruslialwin/bookshelf-app.git
 cd bookshelf-app
 ```
 3. **Open index.html in your browser**
-Double-click the index.html file
+- Double-click the index.html file
 ---
 ### 📸 Screenshot
-![Bookshelf App_page-0001 (1)](https://github.com/user-attachments/assets/03bea479-6169-48e4-a8a4-7c55e2a9dc27)
+![Bookshelf App_page-0001](https://github.com/user-attachments/assets/42f6a388-e149-474c-b415-40adeb255e2a)
+![Bookshelf App_page-0002](https://github.com/user-attachments/assets/b9973217-0e19-4f7d-addf-793d713e6c84)
