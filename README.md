@@ -1,3 +1,44 @@
+# 📚 Project Starter Bookshelf App  
+
+Ini adalah project starter yang saya kerjakan saat mengikuti **IDCamp**. Aplikasi ini dikembangkan sebagai bagian dari project akhir pada kelas dicoding **"Belajar Membuat Front-End Web untuk Pemula"**.  
+
+---
+
+## 🚀 Fitur  
+- Menambahkan buku ke rak buku pribadi  
+- Menandai buku sebagai sudah dibaca / belum dibaca  
+- Menghapus buku dari daftar  
+- Data disimpan menggunakan **localStorage**, sehingga tetap ada meskipun halaman di-refresh  
+
+---
+
+## 🛠️ Dibuat Dengan  
+- HTML  
+- CSS  
+- JavaScript  
+- Web Storage API (**localStorage**)  
+
+---
+
+## 📦 Memulai Project  
+
+### ✅ Prasyarat  
+- Browser modern (Chrome, Firefox, dll.)  
+- Code editor (seperti VS Code) — opsional  
+
+### 💻 Cara Menjalankan Project Secara Lokal  
+1. **Clone repository ini**  
+```bash
+git clone https://github.com/ruslialwin/bookshelf-app.git
+```
+2. **Masuk ke folder project**
+```bash
+cd bookshelf-app
+```
+3. **Buka file index.html di browser**
+Double-click file index.html
+
+============================================================================================
 # 📚 Bookshelf App Starter Project
 This is a starter project I worked on while participating in **IDCamp**. It was developed as part of the final project for the dicoding class **"Belajar Membuat Front-End Web untuk Pemula"**.
 
@@ -32,5 +73,6 @@ cd bookshelf-app
 - Double-click the index.html file
 ---
 ### 📸 Screenshot
-![Bookshelf App_page-0001](https://github.com/user-attachments/assets/42f6a388-e149-474c-b415-40adeb255e2a)
-![Bookshelf App_page-0002](https://github.com/user-attachments/assets/b9973217-0e19-4f7d-addf-793d713e6c84)
+![Bookshelf App_page-0001](https://github.com/user-attachments/assets/d73c8cc5-5237-4ed5-acba-0ef301b57a4b)
+![Bookshelf App_page-0002](https://github.com/user-attachments/assets/5e3c67f3-4d0d-49c4-9413-ba94a47cccd4)
+![Bookshelf App_page-0003](https://github.com/user-attachments/assets/90115229-47d6-48cb-a451-3045c4a12bde)
